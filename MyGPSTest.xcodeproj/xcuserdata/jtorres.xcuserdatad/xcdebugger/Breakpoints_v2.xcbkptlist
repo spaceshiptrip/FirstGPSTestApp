@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "61113EA7-1C76-436E-BD2F-45C805F39F8C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "999D2ABC-C0F1-4274-9E1A-5C2995556876"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shared/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ContentView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "999D2ABC-C0F1-4274-9E1A-5C2995556876 - f4c2ccaf0a9ca22c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of MyGPSTest.ContentView.(showDetails in _734F996B852B0AB5A480006008E7FD63) : Swift.Bool"
+                  moduleName = "MyGPSTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jtorres/Workspaces/prototype/iOS/LocationManger/MyGPSTest/MyGPSTest/Shared/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "999D2ABC-C0F1-4274-9E1A-5C2995556876 - 406df3ca6031128c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyGPSTest.ContentView.init() -&gt; MyGPSTest.ContentView"
+                  moduleName = "MyGPSTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jtorres/Workspaces/prototype/iOS/LocationManger/MyGPSTest/MyGPSTest/Shared/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "45">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BAD41141-B83B-4D1D-A347-C11755A180EC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shared/LocationManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "init()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BAD41141-B83B-4D1D-A347-C11755A180EC - cd944811b4272d7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyGPSTest.LocationManager.__allocating_init() -&gt; MyGPSTest.LocationManager"
+                  moduleName = "MyGPSTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jtorres/Workspaces/prototype/iOS/LocationManger/MyGPSTest/MyGPSTest/Shared/LocationManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "BAD41141-B83B-4D1D-A347-C11755A180EC - 2935226ca8843b31"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MyGPSTest.LocationManager.init() -&gt; MyGPSTest.LocationManager"
+                  moduleName = "MyGPSTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jtorres/Workspaces/prototype/iOS/LocationManger/MyGPSTest/MyGPSTest/Shared/LocationManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AA06E5AD-6C7E-4B22-BB52-B97D9731C988"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Shared/LocationManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "locationManager(_:didChangeAuthorization:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
